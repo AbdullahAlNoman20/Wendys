@@ -1,0 +1,20 @@
+Add New Column in any existing Table:
+# ALTER TABLE table_name ADD column_name datatype PRIMARY KEY AUTO_INCREMENT;
+
+Queries:
+1. 
+
+
+
+<!-- Basic Operation -->
+1. CREATE DATABASE Template
+2. CREATE TABLE register_user(
+    id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(255),
+    email VARCHAR(255),
+    number INT,
+    password VARCHAR(255)
+)
+3. 
+4. 
+5. 
